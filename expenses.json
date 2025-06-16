@@ -1,0 +1,32 @@
+{
+    "sajid": [
+        {
+            "amount": 15.0,
+            "category": "Food",
+            "date": "2025-06-16",
+            "currency": "INR",
+            "id": "3d0e3b8c-d6dc-42f8-88c3-d6fb0287fa86"
+        },
+        {
+            "amount": 150.0,
+            "category": "Entertainment",
+            "date": "2025-06-16",
+            "currency": "INR",
+            "id": "87540307-69cd-464b-8999-f7e48f490603"
+        },
+        {
+            "amount": 273.0,
+            "category": "Utilities",
+            "date": "2025-06-16",
+            "currency": "INR",
+            "id": "5e524d98-657b-42bd-a976-cf9e5c3def8c"
+        },
+        {
+            "id": "3beee2a4-92af-4ce4-abca-f13cc4ae617d",
+            "amount": 0.01,
+            "category": "Food",
+            "date": "2025-06-16",
+            "currency": "INR"
+        }
+    ]
+}
